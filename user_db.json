@@ -1,0 +1,19 @@
+[
+  {
+    "uid": "",
+    "gids": [
+      ""
+    ],
+    "username": "",
+    "pic": "",
+    "levelsys": {
+      "speaking": 0,
+      "pic": 0,
+      "tosmm": 0,
+      "exp": 0,
+      "percent": 0,
+      "lv": 0,
+      "upgrade": false
+    }
+  }
+]
